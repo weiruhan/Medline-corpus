@@ -1,0 +1,169 @@
+index	Sentence
+1	(1968, 1970), the higher serum concentrations of penicillins and cephaloridine reached after administration of probenecid are due not only to slower renal elimination but also to an altered distribution in the body.
+2	ADL 8-2698, a trans-3,4-dimethyl-4-(3-hydroxyphenyl) piperidine, prevents gastrointestinal effects of intravenous morphine without affecting analgesia.
+3	ADL-8-2698 is a novel peripherally restricted opioid antagonist that may selectively prevent opioid-induced gastrointestinal effects without reversing analgesia.
+4	Acetaminophen diminished the binding of theophylline to human serum by a net change of 5.7% (percentage increase in free drug fraction [FDF], 11.0%) at 662 micromol/L and by a net change of 7.1% (percentage increase in FDF, 13.7%) at 1324 micromol/L.
+5	Acid-catalyzed ethanolysis of temazepam in anhydrous and aqueous ethanol solutions.
+6	Additional iron significantly inhibited the absorption of cobalt in both dietary cobalt treatments.
+7	Administering InsP(3) together with RR (100-500 microM) inhibited InsP(3)-induced responses (both Ca(2+) and current responses) in a dose-dependent fashion.
+8	Although neither dexamethasone nor retinyl acetate affected the proliferation of prostatic epithelium in RPMI1640 containing transferrin alone, they modify the mitogenic effect of EGF and insulin.
+9	Although this effect was noted even when cholestyramine was given 4 hours prior to fluvastatin, this regimen did not result in diminished efficacy.
+10	Amiodarone is known to raise serum digoxin levels.
+11	Among the risk factors studied, two appear to increase the risk of ARE: the prescription of thiabendazole to treat strongyloidiasis during the melarsoprol cure and the bad general clinical conditions of patients.
+12	Amprenavir plus rifabutin was poorly tolerated, and 5 of 11 subjects discontinued therapy.
+13	Amprenavir significantly decreases clearance of rifabutin and 25-O-desacetylrifabutin, and the combination is poorly tolerated.
+14	Amprenavir significantly increased the area under the curve at steady state (AUC(ss)) of rifabutin by 2.93-fold and the AUC(ss) of 25-O-desacetylrifabutin by 13.3-fold.
+15	An intravenous injection of perchlorate given later also produces a complete and immediately beginning depletion of pertechnetate already accumulated in the thyroid, within a period of 195 min after 99m-TcO-4-injection with a corresponding increase in blood levels.
+16	Aortic rings with intact endothelium from the high-dose (4 mg/kg/day) estradiol group were supersensitive to noradrenaline compared to the vehicle or low-dose (10 microg/kg/day) estradiol groups (pD2 values = 7.86+/-0.09, 7.30+/-0.11 and 7.35+/-0.04, respectively).
+17	Apparent oral clearance and volume of distribution of sirolimus decreased with 38% and 45%, respectively, when sirolimus was given with diltiazem.
+18	At 75% recovery of fade, hoof twitch was 87 +/- 3% for atracurium alone and 82 +/- 4% for atracurium plus gentamycin.
+19	Azithromycin had no significant impact on the Cmax and AUC of zidovudine, although it significantly decreased the zidovudine tmax by 44% and increased the intracellular exposure to phosphorylated zidovudine by 110%.
+20	Barbiturates and glutethimide should not be administered to patients receiving coumarin drugs.
+21	Because of the pronounced intersubject variability in the extent of the sirolimus-diltiazem interaction, whole blood sirolimus concentrations should be monitored closely in patients treated with the two drugs.
+22	Both ibogaine and 18-MC block morphine-induced and nicotine-induced dopamine release in the nucleus accumbens;
+23	Buforin II may be active in inhibiting Cryptosporidium parvum growth in vitro upon combination with either azithromycin or minocycline.
+24	CONCLUSIONS: Macrolide antibiotics inhibit the metabolism of HMG-CoA reductase inhibitors that are metabolized by CYP3A4 (i.e., atorvastatin, cerivastatin, lovastatin, simvastatin).
+25	CONCLUSIONS: Single-dose diltiazem coadministration leads to higher sirolimus exposure, presumably by inhibition of the first-pass metabolism of sirolimus.
+26	Careful observations on hepatotoxicity are suggested when acetaminophen is prescribed with caffeine.
+27	Chloral hydrate and methaqualone interact pharmacologically with orally administered anticoagulant agents, but the effect is not clinically significant.
+28	Cholestyramine, an anionic-binding resin, has a considerable effect in lowering the rate and extent of fluvastatin bioavailability.
+29	Clinical implications of warfarin interactions with five sedatives.
+30	Coadministration of fluoxetine significantly decreased cisapride plasma concentrations.
+31	Coingestion of acetaminophen with theophylline, phenobarbital with acetaminophen, and valproic acid with phenobarbital at high to toxic concentrations decreases the binding of the target drug.
+32	Combinations of clindamycin and gentamicin were indifferent for 16 and synergistic for 11 of the resistant strains.
+33	Combinations of clindamycin and gentamicin were indifferent for 29 strains and synergistic for 33 strains.
+34	Combined treatment with 1,25(OH)2D3 and TAM enhances the degree of apoptosis assessed using morphological markers that identify chromatin and nuclear matrix protein condensation.
+35	Concurrent administration of indinavir and didanosine significantly reduces the level of exposure to indinavir, but it is unclear how soon after didanosine administration indinavir may be given safely.
+36	Consequently, the effect of iron on the retention of cobalt was lower than on absorption.
+37	Core temperature was decreased in rats in a dose-dependent manner when ethanol was administered to rats treated with disulfiram 8 hours before the ethanol challenge.
+38	Cypermethrin-induced oxidative stress in rat brain and liver is prevented by vitamin E or allopurinol.
+39	Cytochalasin D at 10 microM preferentially blocked the secretory effect of carbachol and its synergism with cAMP, whereas it had no effect on histamine- or cAMP-stimulated acid secretion within 15 min.
+40	Cytochalasin D inhibited the carbachol-stimulated intracellular Ca(2+) concentration ([Ca(2+)](i)) increase due to release from the Ca(2+) store.
+41	DISCUSSION: Clarithromycin is a potent inhibitor of CYP3A4, the major enzyme responsible for simvastatin metabolism.
+42	Dexamethasone and retinyl acetate similarly inhibit and stimulate EGF- or insulin-induced proliferation of prostatic epithelium.
+43	Dexamethasone at 10(-10) M or retinyl acetate at about 3 X 10(-9) M inhibits proliferation stimulated by EGF.
+44	Diazepam at doses of 0.25 mg/kg and 2.5 mg/kg injected with morphine was found to decrease the antinociceptive effect of morphine.
+45	Dose-response curves (derived from the results of using the tablets as well as pure powders) showed that tripelennamine was responsible for the inhibitory activity, which was partially antagonized by pentazocine.
+46	Due to its nephrotoxicity, gentamicin may cause abnormal renal uptake to be seen on 99mTc-MDP bone scintigraphy.
+47	During amiodarone administration, systemic clearance of digoxin was reduced from 234 +/- 72 ml/min (mean +/- standard deviation) to 172 +/- 33 ml/min (p less than 0.01).
+48	Echistatin alone had no effect on tyrosine phosphorylation in T24 cells, but dose-dependently inhibits the effects of contortrostatin when both are added simultaneously.
+49	Endothelium-intact aortic rings from high-estradiol rats were supersensitive to noradrenaline when compared to vehicle-, progesterone- and progesterone + high-estradiol-treated rats (pD2 values = 7.77+/-0.12, 7.21+/-0.13, 6.93+/-0.04 and 7.22+/-0.18, respectively).
+50	Enhanced theophylline clearance secondary to phenytoin therapy.
+51	Etofibrate elicited 62% enhancement of post-heparin lipolytic activity and 100% increase of 3H-triglyceride fractional clearance rate compared with placebo treatment.
+52	Exogenous estradiol also appeared to influence the percentage of endotoxin-induced deaths in a dose-dependent manner.
+53	Exposure of the muscle to ouabain (10(-5) M) markedly increased the PTX-induced release.
+54	Flavoridin alone was found to have no effect on CAS, but can completely block contortrostatin-induced phosphorylation of this protein in MDA-MB-435 cells.
+55	Fluvoxamine inhibits the CYP2C9 catalyzed biotransformation of tolbutamide.
+56	Haloperidol reduced or eliminated the increases in FI responding produced by intermediate doses of either (+)-NANM or PCP in pigeons, but did not antagonize the decreases in FI or FR responding produced by high doses of PCP or either stereoisomer of NANM.
+57	High-dose cisplatin with sodium thiosulfate protection.
+58	Higher concentrations of dexamethasone (10(-8) - 10(-6) M) or retinyl acetate (3 X 10(-8) - 10(-7) M) enhance the mitogenic activity of EGF.
+59	However, careful attention must be directed to cross toxicity and possible pharmacokinetic interactions between antiretroviral and antineoplastic drugs.
+60	However, halothane anesthetic requirement (i.e., MAC) was depressed in a dose-dependent fashion as much as 56% 1-2 hours and as much as 14% 5-6 hours after injection of ketamine, 50 mg/kg, im.
+61	However, retinyl acetate stimulated, but did not significantly inhibit, proliferation in the presence of insulin.
+62	However, the antagonism of the theophylline-induced anxiogenic effects by CGS21680 was only observed in the time spent in the light zone, and DPCPX-induced anxiogenic effects were neither reversed by CGS 21680 nor by CPA.
+63	Ibogaine attenuates, but 18-MC potentiates, the acute locomotor effects of morphine;
+64	In a comparison of digitalis tolerance in dogs anesthetized with ketamine, Innovar Vet, or pentobarbital, the dosage of ouabain needed to cause ventricular tachycardia was significantly higher, as was the LD50 of ouabain, with ketamine or Innovar than with pentobarbital.
+65	In addition to this pharmacological interaction, this report describes a novel chemical reaction between temazepam (a benzodiazepine) and ethanol under acidic conditions similar to those found in vivo, resulting in a 3-ethoxylated product.
+66	In both species, (-)-NANM, but not (+)-NANM, antagonized the rate-decreasing effects of morphine on FI and FR responding.
+67	In ewes given 40 mg of phenobarbital sodium/kg for 5 days intraperitoneally (IP), the anticholinesterase effect of 4 mg of coumaphos/kg was significantly reduced and signs of toxicity were not present.
+68	In monkeys, the effects of (-)-NANM, but not (+)-NANM or PCP, were antagonized by naloxone;
+69	In the presence of ouabain (10(-5) M), PTX (10(-8) M) failed to cause the first contraction;
+70	In vitro interaction of prostaglandin F2alpha and oxytocin in placental vessels.
+71	Increased hepatotoxicity of acetaminophen by concomitant administration of caffeine in the rat.
+72	Indinavir may be taken with a light meal 1 h following the administration of 400 mg of didanosine.
+73	Injection of estradiol 5 min before a nonlethal dose of endotoxin changed the serum sex steroid hormone response of male rats to endotoxin.
+74	Interaction between glycine and glutamate in the development of spontaneous motility in chick embryos.
+75	Interaction of clindamycin and gentamicin in vitro.
+76	Interaction of gentamycin and atracurium in anaesthetised horses.
+77	Interaction of ketamine and halothane in rats.
+78	Interaction on the antinociceptive effect between neurotensin and enkephalins or tuftsin.
+79	Interactions of cobalt and iron in absorption and retention.
+80	Intrathecal injection of naloxone at doses of 0.4 to 40 micrograms caused a dose-related blockade of the inhibition of the tail-flick response induced by intraventricular injection of beta-endorphin, and a high dose of naloxone (40 micrograms) completely blocked the tail-flick inhibition induced by intraventricular beta-endorphin (16 micrograms).
+81	Intraventricular injection of naloxone at doses of 1.2 to 12 micrograms equally antagonized in a dose-dependent manner the tail-flick inhibition induced by intraventricular beta-endorphin and morphine.
+82	It is concluded that ketamine is not a short-acting drug and that concomitant use with halothane would be expected to prolong further the duration of its action on the central nervous system.
+83	It is concluded that neurotensin modulates in an opposite way the function of the enkephalinergic neurons and the central action of tuftsin.
+84	It was concluded that, although gentamycin did augment the neuromuscular blockade of atracurium, the effect was minimal.
+85	It was observed that MPTP induced long lasting depletions of striatal dopamine concentrations and this neurotoxic effect could be prevented by pargyline pretreatment.
+86	It was shown that neurotensin antagonized evidently the antinociceptive effect of enkephalins and their analogue.
+87	Loperamide and morphine (0.1 and 1.0 mg/kg, s.c.) inhibited the dmPGE2 (0.3 mg/kg, p.o.)-induced diarrhea in cecectomized rats.
+88	Median gastric pH was significantly higher when indinavir was taken after didanosine administration;
+89	Methamphetamine, like MPTP, produced depletions of striatal dopamine but these actions were potentiated by pargyline pretreatment.
+90	Midazolam used at doses of 1.25 mg/kg and 2.5 mg/kg decreased the antinociceptive effect of morphine, metamizol (only in the tail-flick test) and indomethacin.
+91	Misonidazole has a complex effect on oral CCNU pharmacokinetics.
+92	Misonidazole protects mouse tumour and normal tissues from the toxicity of oral CCNU.
+93	Misonidazole reduced the antitumour activity of oral CCNU by dose modifying factors (DMF) of 0.58-0.71.
+94	Morphine prolonged gastrointestinal transit time from 69 to 103 minutes (P = .005); this was prevented by ADL 8-2698 (P = .004).
+95	N-methyllevallorphan (5 mg/kg, s.c.) completely antagonized the inhibitory effect of loperamide and partly antagonized the effect of morphine.
+96	On the contrary, neurotensin and tuftsin were agonists in induction of analgesia.
+97	On the other hand, intrathecal naloxone (12-120 micrograms) had only a very weak effect on the tail-flick inhibition induced by intraventricular morphine (40 micrograms).
+98	Our data suggest that TAM significantly potentiates the reduction in cell number induced by 1,25(OH)2D3 alone.
+99	PGF2alpha produced significantly increased vasoconstriction after a single administration of oxytocin.
+100	Pharmacokinetic interaction between single oral doses of diltiazem and sirolimus in healthy volunteers.
+101	Physostigmine pretreatment augmented the depressant effect of alcohol on the early components P1 and N1, while attenuating alcohol's influence on components P2 and P3.
+102	Pretreatment of megakaryocytes with extracellular RR (50 microM) also inhibited InsP(3)-induced responses.
+103	Pretreatment of rats with allopurinol (100 mg/kg, ip) or Vitamin E (100 mg/kg per day, ig, for 3 days and a dose of 40 mg/kg on the 4th day) provided significant protection against the elevation of TBARS levels in cerebral and hepatic tissues, induced by single high dose of oral cypermethrin administration within 4 h.
+104	Previous studies have demonstrated a significant reduction in the oral bioavailability of trovafloxacin and ciprofloxacin when administered concomitantly with an intravenous opiate such as morphine.
+105	Prior administration of 4-methylpyrazole (90 mg kg(-1) body weight) was shown to prevent the conversion of 1,3-difluoro-2-propanol (100 mg kg(-1) body weight) to (-)-erythro-fluorocitrate in vivo and to eliminate the fluoride and citrate elevations seen in 1,3-difluoro-2-propanol-intoxicated animals.
+106	RESULTS: During treatment with fluvoxamine, there was a statistically significant decrease in the median of the total clearance of tolbutamide, from 845 mL/h to 688 mL/h, among the volunteers who received 75 mg/d.
+107	RESULTS: The geometric mean (90% confidence interval) whole blood sirolimus area under the plasma concentration time-curve increased 60% (35%-90%), from 736 to 1178 ng x h/mL, and maximum concentration increased 43% (14%-81%), from 67 to 96 ng/mL, with diltiazem coadministration, whereas the mean elimination half-life of sirolimus decreased slightly, from 79 to 67 hours.
+108	Recovery from 50% twitch to 75% fade recovery took 13.8 +/- 0.8 min for atracurium alone and 13.7 +/- 1.2 min for atracurium plus gentamycin.
+109	Recovery of hoof twitch from 50% to 75% took 7.7 +/- 0.7 min for atracurium alone and 11.5 +/- 2.7 min for atracurium plus gentamycin (P = 0.03).
+110	Rhabdomyolysis secondary to a drug interaction between simvastatin and clarithromycin.
+111	Rifampin and warfarin: a drug interaction.
+112	Rifampin has been reported to increase the warfarin requirements in human subjects ingesting these agents simultaneously.
+113	Rifampin markedly increases the metabolic clearance of amprenavir, and coadministration is contraindicated.
+114	Rifampin significantly decreased the AUC(ss) of amprenavir by 82%, but amprenavir had no effect on rifampin pharmacokinetics.
+115	Sildenafil is contraindicated in patients using long-acting nitrates or who may need to use short-acting nitrates, because the combination may cause a sharp fall of the blood pressure.
+116	Similarly, diazepam decreased the antinociceptive effect of metamizol (only in the tail-flick test) and indomethacin.
+117	Sodium thiosulfate is a neutralizing agent for cisplatin that protects against renal damage.
+118	Studies in rats have shown that neomycin administration attenuates certain types of adrenocortical steroid dependent hypertension, including ACTH hypertension.
+119	Suppression by verapamil of bombesin-enhanced peritoneal metastasis of intestinal adenocarcinomas induced by azoxymethane in wistar rats.
+120	Synergism was observed when GL was combined with cefazolin against Bacillus subtilis and Klebsiella oxytoca.
+121	The MPTP-induced neuronal damage produced a tolerance to the disruptive effects of amphetamine and a supersensitivity to the disruptive effects of apomorphine in rats responding in a schedule controlled paradigm.
+122	The antimicrobial combinations of GL with four antibiotics resulted in additive effect in most instances, synergism in two instances, and antagonism in two instances.
+123	The anxiogenic effects of theophylline were reduced by pretreatment with CGS 21680, an A2-selective agonist, but not by N6-cyclopentyladenosine (CPA), an A1-selective agonist.
+124	The concomitant administration of macrolide antibiotics and other hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors have resulted in previous reports of rhabdomyolysis.
+125	The concomitant administration of rifampin and warfarin resulted in the need for an unusually high maintenance dose of warfarin (20 mg per day) in order to produce a therapeutic effect.
+126	The drug interaction between warfarin and rifampin is not well known.
+127	The effect of rifampin on the warfarin requirement of our patient appeared to be maximal 5 to 7 days after the initiation of rifampin and extended a similar length of time after rifampin withdrawal.
+128	The effects of DCG-IV were very strong and completely depressed the PCP-induced hyperlocomotion.
+129	The half-life of ketamine in plasma and brain was longer in the presence of halothane than when ketamine was given alone.
+130	The lower rate of absorption in the groups receiving 446 mg Fe instead of 48 mg of Fe per kg diet resulted in a decreased renal excretion of cobalt.
+131	The results raise the possibility that the ethanolysis reaction may occur in the stomach of people who consume alcohol and 3-hydroxy-1,4-benzodiazepine on a regular basis.
+132	The serum estrogen concentrations of estradiol + endotoxin-treated rats decreased by 50%, while those of the endotoxin-treated rats increased (2- to 5-fold).
+133	The successive application of glycine (5 or 10 mg/kg egg weight (e.w.) and glutamate (15 mg/kg e.w.) in a 10 min interval significantly increased the activation of spontaneous motility of 17-day-old chick embryos in comparison with the effect of glutamate alone.
+134	The treatment of ewes with an intravenous (IV) injection of trichlorfon, insufficient to produce significant inhibition of erythrocyte acetylcholinesterase (AChE) activity, appeared to produce additive effects with those produced by subsequent treatment with 4 mg of coumaphos/kg/day.
+135	The uptake inhibitors cocaine and desipramine (3 mumol/liter) potentiated the positive inotropic effects of norepinephrine in nonfailing myocardium (p < 0.05) but not in functional class IV myocardium.
+136	Theophylline decreased the binding of acetaminophen by a net change of 6.8% (percentage increase in FDF, 8.8%) at 277.5 micromol/L;
+137	Therapeutic drug monitoring can avoid iatrogenic alterations caused by 99mTc-methylene diphosphonate (MDP)-gentamicin interaction.
+138	There is thus an enhancement effect of PGF2alpha upon the reaction of placental vessels to oxytocin in vitro.
+139	These alterations in digoxin pharmacokinetics produced by amiodarone explain the increase in serum digoxin level that has been observed when this drug combination has been used clinically.
+140	These results suggest that both dexamethasone and retinyl acetate, and possibly other glucocorticoids and retinoids, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of insulin and EGF.
+141	These results suggest that exposure to environmental lead may alter the biological and behavioral responsiveness of an animal to alcohol.
+142	These results suggest that the hepatoxicity of ethanol in alcoholic beverages is enhanced by interaction with its congeners and acetaldehyde;
+143	This effect may be mediated by the ability of rifampin to induce microsomal enzymes and, thus, the catabolism of warfarin.
+144	This might be explained by a blockade by probenecid of the elimination of cloxacillin by the liver.
+145	This report describes two cases in which theophylline clearance accelerated markedly with concomitant phenytoin administration.
+146	This study demonstrated that the potent cytochrome P450 enzyme-inducer phenytoin did indeed have a marked effect on the metabolism of quetiapine, resulting in a 5-fold increase in clearance when administered concomitantly to patients with DSM-IV-diagnosed schizophrenia, schizoaffective disorder, or bipolar disorder.
+147	This study demonstrates that concurrent administration of thiosulfate permits at least a twofold increase in dose and total exposure to cisplatin.
+148	Thus, the results suggest that cypermethrin exposure of rats results in free radical-mediated tissue damage, as indicated by elevated cerebral and hepatic lipid peroxidation, which was prevented by allopurinol and Vitamin E.
+149	Treatment with antidepressant drugs can directly interfere with blood glucose levels or may interact with hypoglycemic agents.
+150	Twelve strains of Staphylococcus aureus (a frequent cause of infection in heroin, but not in pentazocine and tripelennamine, addicts) were completely inhibited by the drug combination.
+151	Using in situ hybridization, we observed that METH caused a rapid and transient dose-dependent increase in arc mRNA level in the striatum and cortex that was abolished by pretreatment with the specific dopamine D1 receptor antagonist SCH-23390 but not by an atypical neuroleptic clozapine.
+152	Valproic acid diminished binding of phenobarbital by a net change of 9.9% (percentage increase in FDF, 21.2%) at 1732 micromol/L.
+153	Ventricular tachycardia induced by ouabain was generally converted to sinus rhythm following administration of Innovar, ketamine, or droperidol but not after administration of fentayl alone or after pentobarbital.
+154	Verapamil also significantly decreased the incidence of lymphatic invasion of adenocarcinomas, which was enhanced by bombesin.
+155	Vitamin D3 administration to rachitic chicks was effective in significantly elevating duodenal arsenate absorption, acting primarily to enhance serosal transport.
+156	We conclude that ADL 8-2698 prevents morphine-induced increases in gastrointestinal transit time by means of selective peripheral opioid anitagonism without affecting central opioid analgesia.
+157	We conclude that the prophylactic and antidotal properties of 4-methylpyrazole seen in animals treated with 1,3-difluoro-2-propanol derive from its capacity to inhibit the NAD+-dependent oxidation responsible for converting 1,3-difluoro-2-propanol to 1,3-difluoroacetone in the committed step of the toxic pathway.
+158	We propose these pharmacokinetic changes to be the underlying mechanism for the reduction of oral CCNU cytotoxicity by misonidazole.
+159	We report the case of an adolescent with altered consciousness caused by carbamazepine overdose with a positive tricyclic antidepressant level to alert clinicians to the cross-reactivity of carbamazepine with a toxicology screen for tricyclic antidepressants.
+160	When combined with ofloxacin, KRM-1648 exhibited strong synergistic activity while only additive effects were observed with the combination of rifampicin (or rifabutin) and ofloxacin.
+161	When ouabain was applied to the muscle in the presence of phentolamine, both first and second contractile responses to PTX were abolished.
+162	With combined use, clinicians should be aware, when phenytoin is added, of the potential for reexacerbation of pulmonary symptomatology due to lowered serum theophylline concentrations.
+163	Withdrawal of rifampin decreased the warfarin requirement by 50%.
+164	[The GABA-ergic system and brain edema] It has been shown in rats with experimental toxic and traumatic edemas that picrotoxin (1 mg/kg) removes the antiedematous action of diazepam, phenazepam, phenibut and amizyl and reduces the action of phentolamine.
+165	[The effect of cimetidine on the renal excretion of verografin and iodamide in dogs] The intravenous injection of cimetidine in a dose of 20 mg/kg enhanced verografine and iodamide excretion in chronic canine experiments.
+166	however, patients with moderate to severe cardiovascular disease or those taking nitrate therapy are at increased risk for potentially serious cardiovascular adverse effects with sildenafil therapy.
+167	only ibogaine enhances cocaine-induced increases in accumbal dopamine.
+168	the doses of naloxone required to antagonize the effects of (-)-NANM were more than 100 times higher than those required to antagonize the effects of morphine.
